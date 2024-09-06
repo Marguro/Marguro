@@ -1,7 +1,7 @@
-Hi 👋 My name is Angkasit Karoonchart
+Hi 👋 My nam is Angkasit Karoonchart
 =====================================
 
-Student in Suan Sunandha Rajabhat University
+I'm a computer science student at Suan Sunandha Rajabhat University.
 --------------------------------------------
 
 ### Skills
