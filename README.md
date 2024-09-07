@@ -1,4 +1,4 @@
-Hi 👋 My nam is Angkasit Karoonchart
+Hi 👋 My name is Angkasit Karoonchart.
 =====================================
 
 I'm a computer science student at Suan Sunandha Rajabhat University.
