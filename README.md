@@ -1,4 +1,4 @@
-Hi 👋 My name is Angkasit Karoonchart.
+Hi, I'm Jay.
 =====================================
 
 I'm a computer science student at Suan Sunandha Rajabhat University.
